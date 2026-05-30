@@ -1,0 +1,3 @@
+En la ruta raíz (/) el servidor responde mostrando en texto plano el mensaje 'Servidor activo'.
+En la ruta /saludo el servidor devuelve el mensaje fijo 'Hola comunidad'.
+En la ruta /mensaje/juan el servidor detecta el parámetro dinámico ':nombre' y responde saludando directamente al usuario con un 'Hola juan'.
