@@ -1,0 +1,5 @@
+1. No exponer datos personales de los usuarios participantes.
+2. Proteger credenciales mediante cifrado seguro y el uso de variables de entorno.
+3. Usar conexiones seguras a través de protocolos HTTPS y certificados SSL.
+4. Registrar accesos mediante logs detallados para auditar entradas al servidor.
+5. Limitar acceso a información sensible aplicando el principio de mínimo privilegio.

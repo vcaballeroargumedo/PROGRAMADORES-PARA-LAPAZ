@@ -1,0 +1,9 @@
+La seguridad digital en las plataformas participativas y comunitarias es de vital importancia
+porque va mucho más allá de una simple protección de datos técnicos; se trata del pilar fundamental
+que sostiene la confianza colectiva de la ciudadanía. Cuando un grupo social utiliza una herramienta
+digital para organizar procesos democráticos o veedurías, deposita su información personal esperando
+un entorno seguro. Si el servidor sufre un ataque o una filtración debido a la falta de cuidado
+en los permisos y accesos, esa confianza se rompe de inmediato y las personas abandonan la participación.
+Proteger estos espacios con tecnologías abiertas y buenas prácticas operativas garantiza la continuidad
+del software y blinda la libre expresión de la comunidad. De esta manera, resguardar la infraestructura
+se transforma en una responsabilidad ética indispensable para asegurar la transparencia social.

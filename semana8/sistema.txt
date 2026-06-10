@@ -1,0 +1,5 @@
+Comando 'uname -a': Muestra la información completa del sistema operativo y del núcleo (kernel) de Linux, incluyendo el nombre del host, la versión del sistema, la arquitectura del procesador y la fecha de compilación.
+
+Comando 'whoami': Muestra el nombre exacto del usuario actual que tiene la sesión activa en la terminal.
+
+Utilidad en servidores: Conocer esta información es crucial para la administración de un servidor porque permite verificar si la arquitectura del sistema es compatible con el software que se planea instalar, identificar al usuario activo para evitar ejecutar comandos destructivos por error (como root) y verificar si el sistema operativo requiere parches o actualizaciones urgentes de seguridad.
