@@ -1,0 +1,13 @@
+Al realizar una petición HTTP de tipo GET a la ruta http://localhost:3000/reportes, el servidor Express responde entregando el contenido actual del array "reportes" en formato JSON.
+
+Si previamente se ha enviado un reporte a través de la ruta POST, el servidor devuelve una lista organizada que incluye los identificadores automáticos generados. La respuesta esperada es la siguiente:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Este comportamiento demuestra que la información se almacena correctamente en la memoria temporal del servidor y queda disponible para consulta inmediata de cualquier sistema cliente.
