@@ -1,0 +1,9 @@
+Garantizar la estabilidad y la seguridad en los servidores que alojan plataformas de carácter
+comunitario es un requisito indispensable para salvaguardar los canales de participación social.
+Cuando un grupo de ciudadanos depende de un entorno digital para realizar veedurías o consultas,
+cualquier caída inesperada interrumpe la comunicación y desgasta la credibilidad de la herramienta.
+No basta con que el software pase con éxito las pruebas iniciales de desarrollo; el entorno real
+exige configuraciones operativas sólidas que resistan altas demandas de tráfico de usuarios.
+El uso de registros constantes y el monitoreo activo permiten mitigar riesgos antes de que afecten
+a la población. Así, mantener un servidor en línea se convierte en un compromiso ético y técnico,
+puesto que la continuidad tecnológica es lo único que blinda a largo plazo la confianza colectiva.
