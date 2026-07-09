@@ -1,0 +1,11 @@
+1. Tareas prioritarias a ejecutar:
+Primero desarrollaría el registro de incidencias por parte del ciudadano y, en segundo lugar, la consulta de reportes organizados por fechas para el equipo de veeduría.
+
+2. Justificación de importancia:
+Estas dos tareas constituyen el núcleo funcional de la solución. Sin la capacidad de capturar datos por parte de los ciudadanos no existiría materia prima que procesar, y sin la consulta para los veedores el sistema no ofrecería ninguna utilidad real de control social.
+
+3. Definición de "Terminado" (Criterios de Aceptación):
+Para mí, una tarea está completamente finalizada cuando cumple estrictamente con estos tres puntos:
+- Criterio A: El código es funcional, se ejecuta sin errores en el entorno local y resuelve la necesidad planteada.
+- Criterio B: Se realizaron pruebas manuales simulando diferentes entradas de usuario para asegurar la estabilidad.
+- Criterio C: Los cambios se guardaron, se estructuró el mensaje de historial y se subieron de forma exitosa a Git.

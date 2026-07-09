@@ -1,0 +1,10 @@
+HISTORIAS DE USUARIO (ORDENADAS DE MAYOR A MENOR PRIORIDAD)
+
+[Prioridad Alta]
+1. Como ciudadano afectado quiero registrar una incidencia pública en el sistema para dejar constancia digital y evidencia fotográfica del caso detectado en mi barrio.
+
+[Prioridad Media]
+2. Como miembro del equipo de veeduría quiero consultar los reportes organizados por fechas para hacer un seguimiento estructurado a los compromisos institucionales.
+
+[Prioridad Baja]
+3. Como coordinador de la plataforma comunitaria quiero recibir una alerta automatizada en Telegram para revisar y validar un nuevo reporte antes de que se haga público.

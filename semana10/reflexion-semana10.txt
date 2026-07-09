@@ -1,0 +1,9 @@
+La implementación de metodologías ágiles en procesos de participación ciudadana transforma la
+manera en que las comunidades fiscalizan los recursos públicos, aportando orden y claridad.
+Al usar herramientas como el backlog, el equipo de veeduría deja de improvisar y empieza a
+priorizar las necesidades urgentes del territorio mediante metas de desarrollo alcanzables.
+Por otro lado, la automatización responsable mediante canales accesibles como Telegram o n8n
+optimiza los tiempos de respuesta interna, manteniendo a los líderes informados en tiempo real.
+Esto democratiza el acceso a la información y fomenta una coordinación colectiva mucho más ágil.
+Sin embargo, el éxito radica en usar la tecnología como un soporte que potencie la comunicación,
+garantizando que la revisión humana sea siempre el filtro final que proteja la confianza digital.

@@ -1,0 +1,7 @@
+DISEÑO DE FLUJO DE AUTOMATIZACIÓN COMUNITARIA
+
+- Evento activador (Webhook / Trigger): El flujo en n8n se activa automáticamente en el instante en que un ciudadano completa el formulario web y registra una nueva incidencia pública.
+
+- Mensaje enviado a Telegram: "Alerta de Veeduría: Se ha registrado una nueva incidencia comunitaria en el sistema. Por favor, ingrese al panel de control para realizar la respectiva verificación humana."
+
+- Restricciones de seguridad y datos sensibles: Por directrices de privacidad y protección de datos, queda estrictamente prohibido enviar nombres completos de los denunciantes, números de documento de identidad, direcciones residenciales exactas, números telefónicos personales o cualquier tipo de credencial de acceso a través del canal de Telegram.
