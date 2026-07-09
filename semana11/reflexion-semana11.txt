@@ -1,0 +1,9 @@
+Desarrollar plataformas orientadas al control social exige una infraestructura técnica sólida que
+equilibre la libre participación ciudadana con una robusta seguridad en el manejo de la información.
+La base de datos se vuelve indispensable porque ofrece una estructura ordenada para almacenar los
+procesos comunitarios, evitando la pérdida de evidencias recopiladas por los veedores vecinales.
+A su vez, integrar controles de autenticación garantiza la trazabilidad del sistema, permitiendo
+conocer qué perfiles autorizados actualizan las fases de un proyecto e impidiendo su alteración.
+Finalmente, blindar el acceso a los datos previene la fuga de información sensible del territorio.
+De este modo, programar con criterios de protección no es un simple requerimiento técnico aislado,
+sino el fundamento ético necesario para blindar la transparencia y sostener la confianza colectiva.

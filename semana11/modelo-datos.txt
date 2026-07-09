@@ -1,0 +1,24 @@
+DISEÑO DE MODELO DE DATOS EN BASE DE DATOS
+
+Entidad: Iniciativa
+
+Campos principales:
+- id (Identificador único numérico)
+- titulo_proyecto (Texto corto con el nombre de la propuesta)
+- desarrollo_propuesta (Explicación detallada del beneficio colectivo)
+- registro_fecha (Marca de tiempo de la creación)
+
+Propósito:
+Almacenar de forma persistente las iniciativas sociales creadas por la ciudadanía que serán visibles en la cartelera comunitaria.
+
+
+Entidad: FirmaApoyo
+
+Campos principales:
+- id (Identificador correlativo interno)
+- iniciativa_id (Enlace relacional con el proyecto apoyado)
+- alias_ciudadano (Nombre simulado de la cuenta que respalda)
+- creacion_momento (Fecha y hora exacta del respaldo)
+
+Propósito:
+Auditar la participación vecinal sumando los respaldos individuales que recibe cada propuesta sin almacenar datos reales de las personas.

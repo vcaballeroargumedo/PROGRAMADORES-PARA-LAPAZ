@@ -1,0 +1,9 @@
+DISEÑO SIMPLIFICADO DE LA INTERFAZ DE USUARIO
+
+La interfaz de usuario contará con un panel superior que alojará el formulario interactivo para la postulación de nuevas iniciativas ciudadanas, incluyendo campos para ingresar un encabezado textual, la descripción de la meta y el selector de fecha. 
+
+Justo debajo se desplegará una marquesina con las iniciativas vigentes ordenadas cronológicamente para que la comunidad pueda leerlas cómodamente. 
+
+Cada tarjeta de iniciativa integrará en su esquina inferior un botón dedicado a sumar un respaldo digital respaldado por un contador dinámico que incrementará su valor numérico en tiempo real con cada clic. 
+
+El diseño visual se estructurará bajo un enfoque claro, limpio y minimalista, asegurando la omisión total de información sensible o privada de las cuentas en las vistas generales.
