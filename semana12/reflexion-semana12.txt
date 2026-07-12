@@ -1,0 +1,9 @@
+A lo largo de este trayecto académico comprendí que el verdadero poder de la tecnología radica en
+su capacidad para democratizar el acceso a los mecanismos de exigibilidad ciudadana en los territorios.
+Herramientas como "Petición en 3 Clics" demuestran que es viable simplificar procesos legales complejos
+mediante interfaces amigables, permitiendo que las comunidades se organicen de forma ágil y transparente.
+Un aprendizaje medular del curso fue la responsabilidad ética detrás de la manipulación de datos,
+entendiendo que blindar la privacidad a través de la autenticación es vital para proteger el tejido social.
+La combinación de bases de datos sólidas, lógica backend y automatizaciones eficientes no solo genera
+un software funcional, sino que dota a la ciudadanía de herramientas técnicas de control y veeduría.
+Así, la programación se convierte en un puente de impacto directo para la transformación y la paz.

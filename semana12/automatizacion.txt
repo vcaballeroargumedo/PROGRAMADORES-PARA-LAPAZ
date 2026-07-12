@@ -1,0 +1,5 @@
+ARQUITECTURA DE AUTOMATIZACIÓN DE MENSAJERÍA COMUNITARIA
+
+- Evento Detonador (Trigger): Envío exitoso del formulario de una Causa por parte de un ciudadano e inserción del registro en la base de datos.
+- Mensaje Automatizado en Canal Externo: "Aviso de Control: Se ha indexado una nueva causa comunitaria en el panel general de la plataforma. Queda habilitada la recepción de apoyos institucionales."
+- Restricciones Críticas de Seguridad: Para blindar el sistema y mitigar riesgos de privacidad, bajo ningún concepto se deben enviar a través de Telegram datos sensibles como números de cédula, direcciones de domicilio, teléfonos de contacto o contraseñas de acceso.

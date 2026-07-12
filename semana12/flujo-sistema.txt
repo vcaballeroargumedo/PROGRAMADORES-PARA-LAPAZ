@@ -1,0 +1,8 @@
+FLUJO DE TRABAJO SISTÉMICO: "PETICIÓN EN 3 CLICS"
+
+Pasos del Ciclo de Vida del Proceso:
+1. Publicación Inicial: Un líder comunitario autenticado ingresa a la interfaz y registra una nueva causa colectiva detallando la problemática territorial.
+2. Almacenamiento Persistente: La plataforma procesa los campos de texto y guarda la información de manera estructurada en las tablas de la base de datos backend.
+3. Recopilación de Respaldos: Los ciudadanos entran a la cartelera pública y añaden su respaldo digital a la propuesta mediante un solo clic en la interfaz.
+4. Conteo e Indexación Dinámica: El servidor web actualiza el estado del contador interno vinculando el incremento de apoyos a la causa correspondiente en tiempo real.
+5. Consolidación y Exportación Formal: Al completarse el período establecido, el sistema procesa los datos y compila un documento PDF formalizado listo para radicación institucional.

@@ -1,0 +1,21 @@
+ESTRUCTURA DE DATOS RELACIONALES
+
+Entidad: Causa
+Campos principales:
+- id (Clave primaria autoincremental)
+- titulo (Texto que condensa la necesidad pública)
+- descripcion (Cuerpo explicativo con los detalles del requerimiento)
+- fecha (Registro temporal de creación del post)
+
+Propósito:
+Gestionar y dar soporte de almacenamiento a las diferentes problemáticas territoriales planteadas por los veedores.
+
+Entidad: Apoyo
+Campos principales:
+- id (Clave primaria única)
+- causa_id (Clave foránea que asocia el respaldo con la Causa origen)
+- nombre (Alias simulado del usuario participante)
+- fecha (Instante exacto en que se presionó el botón de respaldo)
+
+Propósito:
+Llevar un registro auditable del volumen de ciudadanos que acompañan legalmente cada propuesta presentada en la aplicación.
